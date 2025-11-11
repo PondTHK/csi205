@@ -1,0 +1,1 @@
+import{a as s,b as o,j as t,N as u,O as r}from"./index-hboBm3yt.js";function i(){const e=s(),{isAuthenticated:a}=o();return a?t.jsx(r,{}):t.jsx(u,{to:"/auth",replace:!0,state:{from:e}})}export{i as default};
